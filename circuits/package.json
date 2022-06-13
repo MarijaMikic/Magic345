@@ -1,0 +1,19 @@
+{
+  "name": "circuits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "circom_tester": "^0.0.12",
+    "circomlib": "^2.0.3",
+    "circomlib-matrix": "1.0.1",
+    "circomlibjs": "^0.1.2",
+    "mocha": "^10.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
